@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">Fox Hunt</string>
+    <string name="button_start">Start</string>
+    <string name="hello">Start</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_lock">FoxHunt</string>
+    <string name="title_activity_wifiscan">Signals found:</string>
+    <string name="wifi_search">Wifi Scan</string>
+</resources>
